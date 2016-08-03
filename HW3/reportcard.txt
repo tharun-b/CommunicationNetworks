@@ -1,0 +1,34 @@
+Hello Team 4,
+
+I have done grading of your HW3 programming assignment. This was the last assignment based on socket programming and I believe it was the toughest. 
+
+Here is the breakup of your score:
+
+[1] MOSS Plagiarism test: PASSED
+[2] Description and Comments (5 marks): 0 marks
+[3] Valid code submission (30 marks): 30 marks
+Downloaded file is not found
+[4] Test 1 [rock] (20 marks): 20 marks
+[5] Test 2 [mountain] (30 marks): 30 marks
+[6] Test 3 [ERROR] (15 marks): 15 marks
+[7] Test 4 [pebble] (25 marks): 25 marks
+[8] Test 5 [brick] (25 marks): 25 marks
+[9] Others: 0 marks
+
+Overall Score = 145/100
+
+Remark: Almost Perfect!
+
+Description of Tests:
+--------------------
+Test 1: download http://165.91.215.111/rock/ascii.txt file using client and using browser. Match both.
+Test 2: 10 cache Test; download 10 files http://165.91.215.111/mountain/xx.txt and compare
+Test 3: Check if 404 error is getting printed on terminal using the URL http://165.91.215.111/rock/asciiasidugh.txt
+Test 4: 304 and 200 Ok Test for http://165.91.215.111/pebble/pebble.txt
+Test 5: 304 and 200 Ok Test for http://165.91.215.111/brick/brick.txt
+
+Thanks and good luck for course projects. 
+
+Nityendra
+
+PS, Note for cheaters: While grading, I got a lot of indication of cheating (especially code taken from last years class). I didn't go ahead because I don't have a solid proof and time to deal with it. Your grades would be useless in future (unless it is too bad). Grades are for monitoring your progress. If you cheat you won't know how good/bad is your actual performance.

@@ -1,0 +1,19 @@
+Hello Team 4,
+
+I have done grading of your HW4 NS2 programming assignment. This was the introductory assignment based on NS2 simulation and I believe it was way easier than previous programming assignments. I did not do plagiarism test for this assignment because this assignment was very straightforward and plagiarism test would mess up.
+
+Here is the breakup of your score:
+[1] Description and Comments (5 marks): 3 marks
+[2] Valid code Submission/Simulation (10 marks): 10 marks
+[3] VEGAS/SACK throughput consistensy (15 marks): 15 marks
+[4] Conclusion/Explanations (20 marks): 20 marks
+[5] Others: 0 marks
+
+Overall Score = 48/50
+
+Remark: Almost Perfect!
+
+Thanks and I hope everything is going good for course projects.
+
+Nityendra
+

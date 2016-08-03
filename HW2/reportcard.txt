@@ -1,0 +1,24 @@
+Hey Guys,
+
+I have done grading of your HW2 programming assignment. If you obtained the perfect score, that doesn't mean that your program covers all the corner cases. For this programming assignment, I used the same python script I had shared with you. I used 2 computers of lab213A for grading. 
+
+Here is the breakup of your score:
+
+[1] MOSS Plagiarism test: PASSED
+[2] Description and Comments: OK : (Penalty = 0)
+[3] Execution of Code: Clean (Penalty = 0)
+[4] Score given by grading script:
+	-----------------------------
+    Result of grading script (localhost): 80 marks
+    Result of grading script (over network): 80 marks
+    Average: 80.0 marks
+[5] Others: (Penalty = 0)
+
+Overall Score = 80/80
+
+Remark: PERFECT !!!
+
+Hopefully, you learned something from the HW2 programming assignment (especially timeout feature). Thanks and all the best for HW3. To implement proxy server you'll have to do a lot of text parsing so it is going to take a lot of time. HW3 is the last programming assignment based on socket programming.
+
+Thanks,
+Nityendra

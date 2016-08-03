@@ -1,0 +1,26 @@
+Hey Guys,
+
+I have done grading of your HW1 programming assignment. Note that grading is not testing. What it means that I used some test points and if program passed those tests, you got the points. If you obtained the perfect score, that doesn't mean that your program covers all the corner cases. I tried my best to make grading automated but there are a lot of problems because of not having a standard format of chatroom for every team. Therefore, I had to do it manually for each team.
+
+Here is the breakup of your score:
+
+[1] MOSS Plagiarism test: PASSED
+[2] Description and Comments: OK : (Penalty = 0)
+[3] Execution of Code: Clean (Penalty = 0)
+[4] MultiClient Connection (JOIN/FWD): OK (Penalty = 0)
+[5] Max_client restriction: Not OK (Penalty = 10)
+[6] Same User Revisit after exiting Operation: OK (Penalty = 0)
+[7] Existing username operation: Not OK (Penalty = 10)
+[8] Bonus 1 (ONLINE/OFFLINE): Not Applicable (Penalty = 0)
+[9] Bonus 2 (timeout): Not Applicable (Penalty = 0)
+[10] Others: (Penalty = 0)
+
+Overall Score = 80/100
+
+Remark: Need Improvement
+
+Hopefully, you enjoyed the HW1 programming assignment. For the people who are really enthusiastic about socket programming, you should note that there are only 3 programming assignment which is based on socket programming (HW1, HW2 & HW3). Later you can pick course project to get in-depth socket programming experience. HW4 & HW5 have NS2 simulations which is kind of simulating a bunch of computers and evaluating network performances. HW6 doesn't have any programming part.
+
+Thanks and all the best for HW2. I believe HW2 programming assignment is a bit simpler but interesting. 
+
+Nityendra
